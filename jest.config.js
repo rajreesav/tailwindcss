@@ -1,4 +1,5 @@
 // jest.config.js
+//Its a detailed Jest configuration file for a Next.js project using TypeScript.
 
 const nextJest = require('next/jest');
 
